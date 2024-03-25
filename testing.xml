@@ -18,6 +18,7 @@
             <class name="com.automationexercise.tests.TestCase13"/>
             <class name="com.automationexercise.tests.TestCase14"/>
             <class name="com.automationexercise.tests.TestCase15"/>
+            <class name="com.automationexercise.tests.TestCase16"/>
         </classes>
     </test>
 </suite>
